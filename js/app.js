@@ -1,7 +1,7 @@
 $(document).ready(function() {
   var fahrenheit, celsius;
   var weatherApiUrl="https://api.openweathermap.org/data/2.5/weather";
-  var apiKey = ""; //<weather-api-keys>
+  var apiKey = "ff94dae2a32c5e51dc5a777dc9779e45"; //<weather-api-keys>
   getLatLong();
 
   
